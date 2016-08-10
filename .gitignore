@@ -1,0 +1,10 @@
+build
+gradle
+out
+src/main/old
+gradlew*
+.gradle
+*.asv
+old
+ignore
+.idea
